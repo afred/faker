@@ -11,6 +11,10 @@ module Faker
         fetch('word.noun')
       end
 
+      def verb
+        fetch('word.verb')
+      end
+
     end
 
   end
