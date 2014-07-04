@@ -155,3 +155,5 @@ en:
         - "#{Word.verb} the #{Word.noun}"
         - "the #{Word.verb_ing} #{Word.noun}"
         - "the #{Word.noun} and the #{Word.noun}"
+        - "#{Word.noun}"
+        - "#{Word.noun} #{Word.noun}"
